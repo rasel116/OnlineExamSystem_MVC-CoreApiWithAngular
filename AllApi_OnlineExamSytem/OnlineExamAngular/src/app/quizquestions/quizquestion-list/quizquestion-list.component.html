@@ -1,0 +1,26 @@
+<table class="table table-hover">
+    <tr>
+        <th>SubjectID</th>
+        <th>QuestionCategoryId</th>
+        <th>ExhibitId</th>
+        <th>Qn</th>  
+        <th>Option1</th>
+        <th>Option2</th> 
+         <th>Option3</th>
+        <th>Option4</th>
+        <th>Answer</th>
+        <th>Action</th>
+    </tr>
+  <tr *ngFor="let q of service.list">
+    <td (click)="populateForm(q)">{{q.SubjectID}}</td>
+    <td (click)="populateForm(q)">{{q.QuestionCategoryId}}</td>
+    <td (click)="populateForm(q)">{{q.ExhibitId}}</td>
+    <td (click)="populateForm(q)">{{q.Qn}}</td>
+    <td (click)="populateForm(q)">{{q.Option1}}</td>
+    <td (click)="populateForm(q)">{{q.Option2}}</td>
+    <td (click)="populateForm(q)">{{q.Option3}}</td>
+    <td (click)="populateForm(q)">{{q.Option4}}</td>
+    <td (click)="populateForm(q)">{{q.Answer}}</td>
+    <td><button (click)="onDelete(q.QuizQuestionID)" class="btn btn-sm btn-outline-danger">X</button></td>
+  </tr>
+</table>

@@ -1,0 +1,88 @@
+<section id="pricing" class="secondary-color text-center scrollto clearfix ">
+    <div class="row clearfix">
+  
+      <div class="container">
+  
+        <div class="center-form panel">
+          
+          <div class="panel-body">
+              <h4 class="text-center"><i class="ion-person-add"></i> Create Your Question</h4>
+
+<form class="col s6 white" #form="ngForm" (submit)="onSubmit(form)" autocomplete="off">
+    <div class="form-group">
+
+  <input type="hidden" name="QuizQuestionID" #QuizQuestionID="ngModel" [(ngModel)]="service.formData.QuizQuestionID">
+  <div class="form-group">
+    <label>Subject</label>
+    <select name="SubjectID" #SubjectID="ngModel" [(ngModel)]="service.formData.SubjectID" class="form-control"
+      required>
+      <option *ngFor="let sub of service.listSub" [value]="sub.SubjectID">
+        {{sub.SubjectName}}
+      </option>
+    </select>
+  </div>
+    <div class="form-group">
+    <label>Question Category</label>
+    <select name="QuestionCategoryId" #QuestionCategoryId="ngModel" [(ngModel)]="service.formData.QuestionCategoryId" class="form-control"
+      required>
+      <option *ngFor="let cat of service.listCat" [value]="cat.QuestionCategoryId">
+        {{cat.Category}}
+      </option>
+    </select>
+  </div>
+  <div class="form-group">
+
+    <label>Exhibit</label>
+    <select name="ExhibitId" #ExhibitId="ngModel" [(ngModel)]="service.formData.ExhibitId" class="form-control"
+      required>
+      <option *ngFor="let Exh of service.listExh" [value]="Exh.ExhibitId">
+        {{Exh.ExhibitData}}
+      </option>
+    </select>
+  </div>
+    <label>Question</label>
+    <input name="Qn" #Qn="ngModel" [(ngModel)]="service.formData.Qn" class="form-control" required>
+    <div class="validation-error" *ngIf="Qn.invalid && Qn.touched">Question is required</div>
+    <div class="form-group">
+
+    <label>Option1</label>
+    <input name="Option1" #Option1="ngModel" [(ngModel)]="service.formData.Option1" class="form-control" required>
+    <div class="validation-error" *ngIf="Option1.invalid && Option1.touched">Option is required</div>
+    </div>
+    <div class="form-group">
+
+    <label>Option2</label>
+    <input name="Option2" #Option2="ngModel" [(ngModel)]="service.formData.Option2" class="form-control" required>
+    <div class="validation-error" *ngIf="Option2.invalid && Option2.touched">Option is required</div>
+    </div>
+    <div class="form-group">
+
+    <label>Option3</label>
+    <input name="Option3" #Option3="ngModel" [(ngModel)]="service.formData.Option3" class="form-control" required>
+    <div class="validation-error" *ngIf="Option3.invalid && Option3.touched">Option is required</div>
+    </div>
+    <div class="form-group">
+
+    <label>Option4</label>
+    <input name="Option4" #Option4="ngModel" [(ngModel)]="service.formData.Option4" class="form-control" required>
+    <div class="validation-error" *ngIf="Option4.invalid && Option4.touched">Option is required</div>
+    </div>
+    <div class="form-group">
+
+    <label>Answer</label>
+    <input name="Answer" #Answer="ngModel" [(ngModel)]="service.formData.Answer" class="form-control" required>
+    <div class="validation-error" *ngIf="Answer.invalid && Answer.touched">Answer is required like 0-3</div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <button type="submit" [disabled]="form.invalid" class="btn btn-block btn-success">Submit</button>
+  </div>
+</form>
+</div>
+</div>
+
+</div>
+
+</div>
+</section>

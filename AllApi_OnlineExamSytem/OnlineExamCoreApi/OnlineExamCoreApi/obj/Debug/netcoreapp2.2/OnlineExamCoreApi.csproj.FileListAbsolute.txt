@@ -1,0 +1,66 @@
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.deps.json
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.json
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+C:\Users\idb_c#\Desktop\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.deps.json
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.json
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.dev.json
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.csproj.CoreCompileInputs.cache
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cache
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cs
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfoInputs.cache
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfo.cs
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorTargetAssemblyInfo.cache
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+D:\Project\Project\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.deps.json
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.json
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.dev.json
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.csproj.CoreCompileInputs.cache
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cache
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cs
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfoInputs.cache
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfo.cs
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorTargetAssemblyInfo.cache
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+F:\Jashim\Backup\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.deps.json
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.json
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb
+C:\Users\idb_c#\Desktop\New folder\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.deps.json
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.json
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.runtimeconfig.dev.json
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\bin\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.csprojAssemblyReference.cache
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cache
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorAssemblyInfo.cs
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfoInputs.cache
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.AssemblyInfo.cs
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.dll
+C:\Users\IDB_C#\Desktop\Online Exam\OnlineExamCoreApi\OnlineExamCoreApi\obj\Debug\netcoreapp2.2\OnlineExamCoreApi.pdb

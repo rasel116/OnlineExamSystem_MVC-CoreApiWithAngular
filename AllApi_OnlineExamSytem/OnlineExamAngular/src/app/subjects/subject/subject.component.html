@@ -1,0 +1,12 @@
+<form #form="ngForm" (submit)="onSubmit(form)" autocomplete="off">
+  <input type="hidden" name="SubjectID" #SubjectID="ngModel" [(ngModel)]="service.formData.SubjectID">
+  <div class="form-group">
+    <label>Subject</label>
+    <input name="SubjectName" #SubjectName="ngModel" [(ngModel)]="service.formData.SubjectName" type="text"
+      class="form-control" required>
+    <div class="validation-error" *ngIf="SubjectName.invalid && SubjectName.touched">Subject is required</div>
+  </div>
+  <div class="form-group">
+    <button type="submit" [disabled]="form.invalid" class="btn btn-lg btn-block">Submit</button>
+  </div>
+</form>

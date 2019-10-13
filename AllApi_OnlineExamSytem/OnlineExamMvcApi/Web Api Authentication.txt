@@ -1,0 +1,66 @@
+step 01:
+1.web appliction-->web api-->invidual user account
+2.go to reference-->right Click-->Nuget Manager-->Update-->Select all-->unselect the bootstrap-->Update ///Skip 
+3.start without debagging
+4.copy the localhost+   (http://localhost:54267/api/account/register)--> select the post
+ in body section-->row-->application/Json
+Implement the code:
+   {
+
+	"Email":"mdasif@gmail.com",
+	
+      "Password":"As@123456",
+	 
+    "ConfirmPassword": "As@123456"
+
+   }
+
+ If you have a problem then commend the account controller code
+
+        //public AccountController(ApplicationUserManager userManager,
+        //    ISecureDataFormat<AuthenticationTicket> accessTokenFormat)
+        //{
+        //    UserManager = userManager;
+        //    AccessTokenFormat = accessTokenFormat;
+        //}
+
+
+
+
+5.then select the Get and copy the (http://localhost:54267/token)
+
+in body section-->www.form-unlencoded-->application/Json
+Implement the code:
+
+KEY           VALUE
+grant_type    password
+username    mdasif@gmail.com
+password    As@123456
+
+
+then copy the access_token
+v2eO0Q8H9sHTJfT5SOqlxNhaR6ldGUN5dlZpPTZdcv6PhCULOUqkdXxcq6_dP3VR8uJUcXcLR3NDo3p_AL50Sn0g_8fGzlZwercFOsF86KP_6WAlg2g_dweJcN9Yp-4rbGnAvKWXofdUjZskzBQeIlXTpYz-bh-1FRqezD2zm-EjL9TCINm-2UiE4gFTi26qPw_kXWZ1GsiKkVwjxlXiPcTk9DhS-pWctsExm2aTJ37wfkJliroebpaWqgT-aY3jZaAPU6dd2db0jdW83LkCvGComFi8lZLN1PuiGs-TjYRtyDvKRHsuriqw2OHpl7kufrXE9BcxfnmwB9_jGOLUvtNakZjCUpxqRyXXwaIaUJM4hlbw_vEGoa15hpQKOTpgGxQ0fZd1asSFPruVashkVFiqsSTowlg8QCmum6Nb1cDOpUmuQ3g0nZetyIqDo48fLIrGaVvjDS9-NiGsM2i1WWp16b9Pg0uTbPNtzExyab8
+
+6. another tab-->select Get--> http://localhost:54267/api/values
+
+in Header section-->application/Json
+Implement the code:
+
+KEY                    VALUE
+key:"Authorization"  "value":"bearer v2eO0Q8H9sHTJfT5SOqlxNhaR6ldGUN5dlZpPTZdcv6PhCULOUqkdXxcq6_dP3VR8uJUcXcLR3NDo3p_AL50Sn0g_8fGzlZwercFOsF86KP_6WAlg2g_dweJcN9Yp-4rbGnAvKWXofdUjZskzBQeIlXTpYz-bh-1FRqezD2zm-EjL9TCINm-2UiE4gFTi26qPw_kXWZ1GsiKkVwjxlXiPcTk9DhS-pWctsExm2aTJ37wfkJliroebpaWqgT-aY3jZaAPU6dd2db0jdW83LkCvGComFi8lZLN1PuiGs-TjYRtyDvKRHsuriqw2OHpl7kufrXE9BcxfnmwB9_jGOLUvtNakZjCUpxqRyXXwaIaUJM4hlbw_vEGoa15hpQKOTpgGxQ0fZd1asSFPruVashkVFiqsSTowlg8QCmum6Nb1cDOpUmuQ3g0nZetyIqDo48fLIrGaVvjDS9-NiGsM2i1WWp16b9Pg0uTbPNtzExyab8","description":"","type":"text","enabled":true}]
+
+7. go to value Controller-->write some code and namespace
+
+       namespace:    using Microsoft.AspNet.Identity;
+
+    public IEnumerable<string> Get()
+        {
+            string userId = RequestContext.Principal.Identity.GetUserId();
+            return new string[] { "value1", "value2",userId };
+        }
+
+
+8.check the user id  and your database table AspnetUser ID
+===========================================Enjoy====================================================================================
+
+

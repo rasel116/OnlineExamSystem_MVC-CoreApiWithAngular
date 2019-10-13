@@ -1,0 +1,53 @@
+<section id="pricing" class="secondary-color text-center scrollto clearfix ">
+    <div class="row clearfix">
+      
+      <div class="col-3">
+        <div class="panel">
+                <li  *ngIf="userService.roleMatch(['Admin'])">
+                        <a routerLink="/adminPanel">Admin Panel</a>
+                      </li>
+                     
+          <div class="panel-body center">
+              <blockquote class="testimonial classic" >
+                  <img src="assets/images/user-images/{{user.image}}" alt="User"/>
+                  <q>Logged On : {{userClaims.LoggedOn}}</q>
+                  <footer>
+                      <a (click)="Logout()" class="button">Sign out</a>
+                      <li  *ngIf="userService.roleMatch(['Teacher'])">
+                        <a routerLink="/QuizQuest">Create Question</a>
+                        <a routerLink="/subject">Create Subject</a>
+                        <a routerLink="/quiz">See Test Example</a>
+                        <a routerLink="/QuizQuest">Create Question</a>
+
+                      </li>
+                      <li  *ngIf="userService.roleMatch(['Student'])">
+                        <a routerLink="/register">Register & Start Exam</a>
+
+                      </li>
+                  </footer>
+              </blockquote>
+          </div>
+        </div>
+<div class="row" *ngIf="userClaims"></div>
+      </div>
+      <div class="col-2-3">
+          <div class="panel">
+              <div class="panel-body">
+                  <div class="pricing-block-content">
+                      <h3>UserName : {{userClaims.firstName}}</h3>
+                      <div class="pricing">
+                          <p>Email : {{userClaims.Email}}</p>
+                      </div>
+                      <ul>
+                          <li>Full Name : {{userClaims.FirstName}} {{userClaims.LastName}}</li>
+                      </ul>
+                 
+                  </div>
+    
+              </div>
+            </div>        
+      </div>
+  
+    </div>
+    
+</section>

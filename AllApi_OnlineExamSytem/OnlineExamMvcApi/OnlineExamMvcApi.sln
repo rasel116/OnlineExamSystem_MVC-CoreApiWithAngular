@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamMvcApi", "OnlineExamMvcApi\OnlineExamMvcApi.csproj", "{95D16698-A5AE-4508-9677-168EA9640BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D16698-A5AE-4508-9677-168EA9640BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D16698-A5AE-4508-9677-168EA9640BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D16698-A5AE-4508-9677-168EA9640BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D16698-A5AE-4508-9677-168EA9640BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB141428-2015-41A3-B0C6-9D499B5B8E4D}
+	EndGlobalSection
+EndGlobal
